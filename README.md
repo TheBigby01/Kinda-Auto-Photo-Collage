@@ -5,7 +5,7 @@ To Use-
 
   1.Clone the repo
   2.Replace images on "Image" Folder with desired images.
-  3.Update the "UpdatableVars" Folder's variables as necessary.
+  3.Update the "UpdatableVars.js" Files's variables as necessary.
   4.Run the index.html file using local server. [You could use live-server of http-server]
   5.Open the local server link to auto collage.
 
